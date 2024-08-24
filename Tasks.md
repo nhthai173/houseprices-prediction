@@ -2,7 +2,7 @@
 
 > Người thực hiện: @
 
-Đọc trong `data_description.txt` (có tất 80 trường)
+Đọc trong [`data_description.txt`](./data/data_description.txt) (có tất 80 trường)
 
 #### Ví dụ:
 
